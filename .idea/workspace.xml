@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3e84da-5e8f-424b-838c-df431678a8f6" name="Default Changelist" comment="" />
+    <list default="true" id="7a3e84da-5e8f-424b-838c-df431678a8f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Models/Category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/category.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fcSqw1XNerQH9ELXNkKE1zjd43" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,11 +47,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596516082792</updated>
-      <workItem from="1596516083953" duration="5587000" />
+      <workItem from="1596516083953" duration="12281000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="300" width="362" height="224" key="Github.ShareDialog" timestamp="1596522539675">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="573" y="300" width="362" height="224" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1596522539675" />
+    <state x="438" y="103" width="479" height="568" key="Github.UntrackedFilesDialog" timestamp="1596522556460">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="438" y="103" width="479" height="568" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1596522556460" />
+    <state x="378" y="181" width="600" height="413" key="Vcs.Push.Dialog.v2" timestamp="1596522584515">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="181" width="600" height="413" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1596522584515" />
   </component>
 </project>
