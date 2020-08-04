@@ -3,7 +3,8 @@ const Category =require('../Models/Category');
 
 router.get('/getCategory',(req, res, next)=>{
 
-            Category.find()
+      // console.log(req.query.Type)
+            Category.find().where('categoryType').equals(req.query.Type)
                 .then(data=>{
                     res.status(200).json(data)
                 })
