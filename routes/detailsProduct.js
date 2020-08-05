@@ -30,7 +30,7 @@ router.get('/getProduct',(req, res, next)=>{
     // 5f2a6c760839e91eaaa6dcb3
     DetailsProduct.where('productId').equals(req.query.ID)
         .then(data=>{
-            console.log(data);
+            // console.log(data);
             res.json(data);
         })
         .catch()

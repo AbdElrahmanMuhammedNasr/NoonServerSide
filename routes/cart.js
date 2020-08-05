@@ -12,6 +12,7 @@ router.get('/getCartsCount',(req, res, next)=>{
 });
 
 router.get('/getCarts',(req, res, next)=>{
+    console.log(req.query.email);
     Cart.find()
         .where('email')
         .equals(req.query.email)
