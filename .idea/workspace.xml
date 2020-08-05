@@ -52,7 +52,7 @@
       <workItem from="1596516083953" duration="12371000" />
       <workItem from="1596534904171" duration="3796000" />
       <workItem from="1596570397867" duration="5251000" />
-      <workItem from="1596611579061" duration="9532000" />
+      <workItem from="1596611579061" duration="9837000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596529951541</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596539594155</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1596623798576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596623798576</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,10 +86,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="301" y="0" width="754" height="768" key="CommitChangelistDialog2" timestamp="1596539593959">
+    <state x="301" y="0" width="754" height="768" key="CommitChangelistDialog2" timestamp="1596623798110">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="301" y="0" width="754" height="768" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1596539593959" />
+    <state x="301" y="0" width="754" height="768" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1596623798110" />
     <state x="573" y="300" width="362" height="224" key="Github.ShareDialog" timestamp="1596522539675">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
