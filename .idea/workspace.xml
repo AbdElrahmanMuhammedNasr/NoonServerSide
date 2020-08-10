@@ -4,7 +4,7 @@
     <list default="true" id="7a3e84da-5e8f-424b-838c-df431678a8f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/detailsProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/detailsProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/category.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,8 @@
       <workItem from="1596534904171" duration="3796000" />
       <workItem from="1596570397867" duration="5251000" />
       <workItem from="1596611579061" duration="9881000" />
-      <workItem from="1596641508857" duration="3012000" />
+      <workItem from="1596641508857" duration="3129000" />
+      <workItem from="1597052361169" duration="3961000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596529951541</created>
@@ -79,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596623826538</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1596645461578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596645461578</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,10 +98,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="301" y="0" width="754" height="768" key="CommitChangelistDialog2" timestamp="1596623826440">
+    <state x="301" y="0" width="754" height="768" key="CommitChangelistDialog2" timestamp="1596645461160">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="301" y="0" width="754" height="768" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1596623826440" />
+    <state x="301" y="0" width="754" height="768" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1596645461160" />
     <state x="573" y="300" width="362" height="224" key="Github.ShareDialog" timestamp="1596522539675">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -102,10 +110,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="438" y="103" width="479" height="568" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1596522556460" />
-    <state x="378" y="181" width="600" height="413" key="Vcs.Push.Dialog.v2" timestamp="1596623834215">
+    <state x="378" y="181" width="600" height="413" key="Vcs.Push.Dialog.v2" timestamp="1596645469112">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="378" y="181" width="600" height="413" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1596623834215" />
+    <state x="378" y="181" width="600" height="413" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1596645469112" />
     <state x="430" y="170" key="run.anything.popup" timestamp="1596612082445">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
